@@ -1,0 +1,194 @@
+Order_ID,Order_Date,Customer_Name,State,City,Year,Quarter,Region,Category,Product,Quantity,Revenue,Profit,Profit_Margin,Discount,Sales_Rep,Customer_Segment
+B-25601,2018-01-04,Bharat,Gujarat,Ahmedabad,2018,Q1,West,Office Supplies,Office Supplies Item 1,1,2991,507.0,0.17,0.25,Rep-1,Home Office
+B-25602,2018-01-04,Pearl,Maharashtra,Pune,2018,Q1,West,Electronics,Electronics Item 2,3,9480,670.0,0.07,0.1,Rep-2,Home Office
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,2018,Q1,Other,Office Supplies,Office Supplies Item 3,2,7248,1320.0,0.18,0.15,Rep-3,Consumer
+B-25604,2018-03-04,Divsha,Rajasthan,Jaipur,2018,Q1,North,Office Supplies,Office Supplies Item 4,4,14204,2260.0,0.16,0.25,Rep-4,Consumer
+B-25605,2018-05-04,Kasheen,West Bengal,Kolkata,2018,Q2,East,Electronics,Electronics Item 5,3,1512,379.0,0.25,0.15,Rep-5,Corporate
+B-25606,2018-06-04,Hazel,Karnataka,Bangalore,2018,Q2,South,Electronics,Electronics Item 6,1,1376,405.0,0.29,0.05,Rep-1,Home Office
+B-25607,2018-06-04,Sonakshi,Jammu and Kashmir,Kashmir,2018,Q2,Other,Office Supplies,Office Supplies Item 7,4,5964,1127.0,0.19,0.1,Rep-2,Home Office
+B-25608,2018-08-04,Aarushi,Tamil Nadu,Chennai,2018,Q3,South,Furniture,Furniture Item 8,1,4642,607.0,0.13,0.05,Rep-3,Consumer
+B-25609,2018-09-04,Jitesh,Uttar Pradesh,Lucknow,2018,Q3,North,Office Supplies,Office Supplies Item 9,1,4864,296.0,0.06,0.05,Rep-4,Corporate
+B-25610,2018-09-04,Yogesh,Bihar,Patna,2018,Q3,East,Office Supplies,Office Supplies Item 10,2,9930,2792.0,0.28,0.05,Rep-5,Consumer
+B-25611,2018-11-04,Anita,Kerala ,Thiruvananthapuram,2018,Q4,Other,Office Supplies,Office Supplies Item 1,4,4540,1270.0,0.28,0.05,Rep-1,Consumer
+B-25612,2018-12-04,Shrichand,Punjab,Chandigarh,2018,Q4,North,Office Supplies,Office Supplies Item 2,4,8772,993.0,0.11,0.1,Rep-2,Consumer
+B-25613,2018-12-04,Mukesh,Haryana,Chandigarh,2018,Q4,North,Electronics,Electronics Item 3,2,4364,977.0,0.22,0.05,Rep-3,Consumer
+B-25645,2018-01-05,Yaanvi,Madhya Pradesh,Indore,2018,Q1,Other,Office Supplies,Office Supplies Item 4,3,1857,128.0,0.07,0.1,Rep-4,Home Office
+B-25646,2018-01-05,Sonal,Bihar,Patna,2018,Q1,East,Furniture,Furniture Item 5,1,1330,122.0,0.09,0.1,Rep-5,Home Office
+B-25647,2018-03-05,Sharda,Kerala ,Thiruvananthapuram,2018,Q1,Other,Electronics,Electronics Item 6,5,20875,2175.0,0.1,0.15,Rep-1,Consumer
+B-25648,2018-04-05,Aditya,Punjab,Chandigarh,2018,Q2,North,Furniture,Furniture Item 7,1,1869,231.0,0.12,0.25,Rep-2,Corporate
+B-25649,2018-05-05,Rachna,Haryana,Chandigarh,2018,Q2,North,Furniture,Furniture Item 8,1,1240,371.0,0.3,0.25,Rep-3,Corporate
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,2018,Q2,West,Furniture,Furniture Item 9,3,1848,414.0,0.22,0.1,Rep-4,Corporate
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018,Q3,Other,Furniture,Furniture Item 10,1,3338,488.0,0.15,0.15,Rep-5,Corporate
+B-25652,2018-08-05,Tushina,Goa,Goa,2018,Q3,Other,Electronics,Electronics Item 1,2,3300,773.0,0.23,0.1,Rep-1,Consumer
+B-25653,2018-08-05,Farah,Nagaland,Kohima,2018,Q3,Other,Electronics,Electronics Item 2,2,4862,1356.0,0.28,0.1,Rep-2,Home Office
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,2018,Q4,West,Furniture,Furniture Item 3,4,6048,1752.0,0.29,0.1,Rep-3,Corporate
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,2018,Q4,Other,Furniture,Furniture Item 4,5,10820,698.0,0.06,0.15,Rep-4,Consumer
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018,Q4,West,Electronics,Electronics Item 5,1,1581,235.0,0.15,0.25,Rep-5,Corporate
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,2018,Q1,North,Electronics,Electronics Item 6,1,1012,78.0,0.08,0.15,Rep-1,Corporate
+B-25677,2018-02-06,Ekta,West Bengal,Kolkata,2018,Q1,East,Electronics,Electronics Item 7,3,10047,1345.0,0.13,0.05,Rep-2,Consumer
+B-25678,2018-03-06,Bathina,Karnataka,Bangalore,2018,Q1,South,Office Supplies,Office Supplies Item 8,2,2118,196.0,0.09,0.15,Rep-3,Home Office
+B-25679,2018-04-06,Avni,Maharashtra,Mumbai,2018,Q2,West,Office Supplies,Office Supplies Item 9,5,20860,4416.0,0.21,0.15,Rep-4,Home Office
+B-25680,2018-04-06,Aayushi,Madhya Pradesh,Indore,2018,Q2,Other,Office Supplies,Office Supplies Item 10,4,15372,2261.0,0.15,0.15,Rep-5,Consumer
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,2018,Q2,Other,Furniture,Furniture Item 1,2,9140,981.0,0.11,0.15,Rep-1,Home Office
+B-25682,2018-07-06,Krutika,Bihar,Patna,2018,Q3,East,Office Supplies,Office Supplies Item 2,4,7880,918.0,0.12,0.25,Rep-2,Consumer
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,2018,Q3,Other,Furniture,Furniture Item 3,3,3240,454.0,0.14,0.05,Rep-3,Consumer
+B-25684,2018-09-06,Samiksha,Maharashtra,Mumbai,2018,Q3,West,Furniture,Furniture Item 4,3,8382,964.0,0.12,0.25,Rep-4,Consumer
+B-25685,2018-10-06,Sheetal,Madhya Pradesh,Indore,2018,Q4,Other,Office Supplies,Office Supplies Item 5,1,3647,596.0,0.16,0.25,Rep-5,Home Office
+B-25686,2018-11-06,Pooja,Himachal Pradesh,Simla,2018,Q4,Other,Furniture,Furniture Item 6,5,23745,1379.0,0.06,0.15,Rep-1,Consumer
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,2018,Q4,West,Office Supplies,Office Supplies Item 7,4,8716,1045.0,0.12,0.1,Rep-2,Corporate
+B-25688,2018-11-06,Swetha,Madhya Pradesh,Indore,2018,Q4,Other,Office Supplies,Office Supplies Item 8,2,8012,1224.0,0.15,0.1,Rep-3,Home Office
+B-25706,2018-01-07,Swetlana,Goa,Goa,2018,Q1,Other,Electronics,Electronics Item 9,3,9732,1953.0,0.2,0.25,Rep-4,Home Office
+B-25707,2018-01-07,Shivani,Maharashtra,Mumbai,2018,Q1,West,Office Supplies,Office Supplies Item 10,1,3856,454.0,0.12,0.25,Rep-5,Home Office
+B-25708,2018-01-07,Kishwar,Madhya Pradesh,Indore,2018,Q1,Other,Electronics,Electronics Item 1,1,4545,379.0,0.08,0.15,Rep-1,Home Office
+B-25709,2018-01-07,Aakanksha,Madhya Pradesh,Indore,2018,Q1,Other,Office Supplies,Office Supplies Item 2,4,6972,481.0,0.07,0.25,Rep-2,Corporate
+B-25710,2018-05-07,Megha,Maharashtra,Pune,2018,Q2,West,Office Supplies,Office Supplies Item 3,3,10854,3095.0,0.29,0.15,Rep-3,Home Office
+B-25711,2018-06-07,Sakshi,Madhya Pradesh,Bhopal,2018,Q2,Other,Electronics,Electronics Item 4,5,13205,2036.0,0.15,0.1,Rep-4,Home Office
+B-25712,2018-07-07,Adhvaita,Rajasthan,Jaipur,2018,Q3,North,Electronics,Electronics Item 5,3,10677,2085.0,0.2,0.1,Rep-5,Consumer
+B-25713,2018-08-07,Raksha,West Bengal,Kolkata,2018,Q3,East,Office Supplies,Office Supplies Item 6,4,13836,3871.0,0.28,0.05,Rep-1,Home Office
+B-25714,2018-09-07,Stuti,Karnataka,Bangalore,2018,Q3,South,Furniture,Furniture Item 7,4,11060,782.0,0.07,0.1,Rep-2,Corporate
+B-25715,2018-10-07,Srishti,Jammu and Kashmir,Kashmir,2018,Q4,Other,Electronics,Electronics Item 8,3,8937,2406.0,0.27,0.25,Rep-3,Corporate
+B-25716,2018-11-07,Surabhi,Tamil Nadu,Chennai,2018,Q4,South,Furniture,Furniture Item 9,4,8540,1605.0,0.19,0.1,Rep-4,Corporate
+B-25717,2018-12-07,Manshul,Uttar Pradesh,Lucknow,2018,Q4,North,Furniture,Furniture Item 10,3,6771,618.0,0.09,0.15,Rep-5,Corporate
+B-25718,2018-12-07,Anjali,Maharashtra,Mumbai,2018,Q4,West,Furniture,Furniture Item 1,2,9904,1513.0,0.15,0.1,Rep-1,Home Office
+B-25719,2018-12-07,Rashmi,Madhya Pradesh,Indore,2018,Q4,Other,Electronics,Electronics Item 2,3,7710,1884.0,0.24,0.05,Rep-2,Home Office
+B-25737,2018-01-08,Shubham,Madhya Pradesh,Indore,2018,Q1,Other,Furniture,Furniture Item 3,3,10047,1709.0,0.17,0.1,Rep-3,Corporate
+B-25738,2018-02-08,Ayush,Punjab,Chandigarh,2018,Q1,North,Electronics,Electronics Item 4,4,15004,4446.0,0.3,0.15,Rep-4,Corporate
+B-25739,2018-03-08,Daksh,Haryana,Chandigarh,2018,Q1,North,Furniture,Furniture Item 5,4,16920,2440.0,0.14,0.15,Rep-5,Home Office
+B-25740,2018-03-08,Rane,Maharashtra,Mumbai,2018,Q1,West,Office Supplies,Office Supplies Item 6,1,2989,710.0,0.24,0.25,Rep-1,Corporate
+B-25741,2018-03-08,Navdeep,Madhya Pradesh,Indore,2018,Q1,Other,Office Supplies,Office Supplies Item 7,1,2131,316.0,0.15,0.1,Rep-2,Consumer
+B-25742,2018-03-08,Ashwin,Goa,Goa,2018,Q1,Other,Electronics,Electronics Item 8,2,6632,1706.0,0.26,0.15,Rep-3,Corporate
+B-25743,2018-07-08,Aman,Nagaland,Kohima,2018,Q3,Other,Office Supplies,Office Supplies Item 9,1,1515,291.0,0.19,0.05,Rep-4,Corporate
+B-25744,2018-08-08,Devendra,Andhra Pradesh,Hyderabad,2018,Q3,South,Office Supplies,Office Supplies Item 10,3,5544,365.0,0.07,0.25,Rep-5,Consumer
+B-25745,2018-09-08,Kartik,Gujarat,Ahmedabad,2018,Q3,West,Furniture,Furniture Item 1,4,14348,849.0,0.06,0.05,Rep-1,Consumer
+B-25746,2018-10-08,Shivam,Maharashtra,Pune,2018,Q4,West,Electronics,Electronics Item 2,1,3339,279.0,0.08,0.1,Rep-2,Home Office
+B-25747,2018-11-08,Harsh,Madhya Pradesh,Bhopal,2018,Q4,Other,Furniture,Furniture Item 3,1,835,45.0,0.05,0.1,Rep-3,Home Office
+B-25748,2018-12-08,Nitant,Rajasthan,Jaipur,2018,Q4,North,Furniture,Furniture Item 4,2,2790,192.0,0.07,0.1,Rep-4,Consumer
+B-25768,2018-01-09,Shreyoshe,Karnataka,Bangalore,2018,Q1,South,Furniture,Furniture Item 5,2,8092,1804.0,0.22,0.25,Rep-5,Consumer
+B-25769,2018-02-09,Surbhi,Maharashtra,Mumbai,2018,Q1,West,Furniture,Furniture Item 6,3,4053,744.0,0.18,0.15,Rep-1,Home Office
+B-25770,2018-02-09,Sakshi,Madhya Pradesh,Indore,2018,Q1,Other,Furniture,Furniture Item 7,4,8748,2077.0,0.24,0.25,Rep-2,Corporate
+B-25771,2018-02-09,Vaibhavi,Uttar Pradesh,Lucknow,2018,Q1,North,Furniture,Furniture Item 8,2,4862,1353.0,0.28,0.05,Rep-3,Consumer
+B-25772,2018-02-09,Sanjana,Bihar,Patna,2018,Q1,East,Furniture,Furniture Item 9,1,4246,833.0,0.2,0.25,Rep-4,Home Office
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,2018,Q2,Other,Electronics,Electronics Item 10,4,11708,2711.0,0.23,0.05,Rep-5,Corporate
+B-25774,2018-07-09,Snehal,Punjab,Chandigarh,2018,Q3,North,Office Supplies,Office Supplies Item 1,4,8272,1979.0,0.24,0.25,Rep-1,Consumer
+B-25775,2018-08-09,Duhita,Haryana,Chandigarh,2018,Q3,North,Furniture,Furniture Item 2,1,4500,650.0,0.14,0.15,Rep-2,Corporate
+B-25776,2018-09-09,Mousam,Maharashtra,Mumbai,2018,Q3,West,Furniture,Furniture Item 3,2,6476,714.0,0.11,0.05,Rep-3,Home Office
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,2018,Q4,Other,Furniture,Furniture Item 4,1,3998,405.0,0.1,0.1,Rep-4,Consumer
+B-25778,2018-11-09,Surabhi,Maharashtra,Mumbai,2018,Q4,West,Furniture,Furniture Item 5,4,17652,1992.0,0.11,0.1,Rep-5,Corporate
+B-25779,2018-12-09,Savi,Madhya Pradesh,Indore,2018,Q4,Other,Furniture,Furniture Item 6,5,7830,929.0,0.12,0.25,Rep-1,Consumer
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,2018,Q1,South,Furniture,Furniture Item 7,5,24400,2484.0,0.1,0.1,Rep-2,Corporate
+B-25799,2018-01-10,Divyansh,Gujarat,Ahmedabad,2018,Q1,West,Office Supplies,Office Supplies Item 8,3,8832,2381.0,0.27,0.05,Rep-3,Home Office
+B-25800,2018-01-10,Ishit,Maharashtra,Pune,2018,Q1,West,Office Supplies,Office Supplies Item 9,1,4607,1102.0,0.24,0.1,Rep-4,Home Office
+B-25801,2018-01-10,Aryan,Madhya Pradesh,Bhopal,2018,Q1,Other,Furniture,Furniture Item 10,1,3873,239.0,0.06,0.15,Rep-5,Consumer
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,2018,Q2,West,Office Supplies,Office Supplies Item 1,3,13407,1571.0,0.12,0.15,Rep-1,Corporate
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,2018,Q2,Other,Electronics,Electronics Item 2,3,9138,508.0,0.06,0.25,Rep-2,Consumer
+B-25804,2018-05-10,Sudheer,Karnataka,Bangalore,2018,Q2,South,Furniture,Furniture Item 3,3,3759,656.0,0.17,0.05,Rep-3,Consumer
+B-25805,2018-05-10,Ankit,Maharashtra,Mumbai,2018,Q2,West,Electronics,Electronics Item 4,4,10328,1746.0,0.17,0.15,Rep-4,Corporate
+B-25806,2018-06-10,Dhanraj,Madhya Pradesh,Indore,2018,Q2,Other,Electronics,Electronics Item 5,1,3274,844.0,0.26,0.15,Rep-5,Corporate
+B-25807,2018-07-10,Vipul,Uttar Pradesh,Lucknow,2018,Q3,North,Furniture,Furniture Item 6,4,13584,1724.0,0.13,0.05,Rep-1,Corporate
+B-25808,2018-08-10,Apsingekar,Bihar,Patna,2018,Q3,East,Office Supplies,Office Supplies Item 7,3,14055,3571.0,0.25,0.1,Rep-2,Home Office
+B-25809,2018-09-10,Suman,Kerala ,Thiruvananthapuram,2018,Q3,Other,Electronics,Electronics Item 8,1,1275,372.0,0.29,0.1,Rep-3,Consumer
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,2018,Q4,North,Furniture,Furniture Item 9,4,8500,613.0,0.07,0.25,Rep-4,Consumer
+B-25811,2018-10-10,Utsav,Maharashtra,Mumbai,2018,Q4,West,Electronics,Electronics Item 10,4,14276,3540.0,0.25,0.1,Rep-5,Home Office
+B-25812,2018-10-10,Kshitij,Madhya Pradesh,Indore,2018,Q4,Other,Electronics,Electronics Item 1,3,2751,543.0,0.2,0.05,Rep-1,Corporate
+B-25813,2018-10-10,Hrisheekesh,Maharashtra,Mumbai,2018,Q4,West,Electronics,Electronics Item 2,1,614,104.0,0.17,0.15,Rep-2,Home Office
+B-25814,2018-10-10,Swapnil,Madhya Pradesh,Indore,2018,Q4,Other,Electronics,Electronics Item 3,3,3348,519.0,0.16,0.1,Rep-3,Home Office
+B-25815,2018-10-10,Harsh,Nagaland,Kohima,2018,Q4,Other,Office Supplies,Office Supplies Item 4,1,4474,1101.0,0.25,0.25,Rep-4,Home Office
+B-25816,2018-12-10,Mane,Andhra Pradesh,Hyderabad,2018,Q4,South,Electronics,Electronics Item 5,5,18835,3952.0,0.21,0.1,Rep-5,Consumer
+B-25841,2018-01-11,Ashvini,Maharashtra,Mumbai,2018,Q1,West,Electronics,Electronics Item 6,2,2650,666.0,0.25,0.05,Rep-1,Home Office
+B-25842,2018-02-11,Sheetal,Madhya Pradesh,Indore,2018,Q1,Other,Electronics,Electronics Item 7,2,4032,1112.0,0.28,0.25,Rep-2,Consumer
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,2018,Q1,West,Office Supplies,Office Supplies Item 8,2,7292,1490.0,0.2,0.1,Rep-3,Consumer
+B-25844,2018-03-11,Swati,Madhya Pradesh,Indore,2018,Q1,Other,Electronics,Electronics Item 9,3,2736,807.0,0.29,0.25,Rep-4,Consumer
+B-25845,2018-03-11,Snel,Kerala ,Thiruvananthapuram,2018,Q1,Other,Electronics,Electronics Item 10,5,6140,1240.0,0.2,0.05,Rep-5,Corporate
+B-25846,2018-03-11,Soodesh,Punjab,Chandigarh,2018,Q1,North,Office Supplies,Office Supplies Item 1,1,3848,805.0,0.21,0.15,Rep-1,Consumer
+B-25847,2018-03-11,Aniket,Haryana,Chandigarh,2018,Q1,North,Office Supplies,Office Supplies Item 2,4,13232,2497.0,0.19,0.05,Rep-2,Consumer
+B-25848,2018-03-11,Rohan,Himachal Pradesh,Simla,2018,Q1,Other,Office Supplies,Office Supplies Item 3,1,1175,85.0,0.07,0.05,Rep-3,Corporate
+B-25849,2018-04-11,K,Sikkim,Gangtok,2018,Q2,Other,Electronics,Electronics Item 4,4,15860,3673.0,0.23,0.05,Rep-4,Consumer
+B-25850,2018-05-11,Abhishek,Goa,Goa,2018,Q2,Other,Office Supplies,Office Supplies Item 5,1,3004,561.0,0.19,0.05,Rep-5,Home Office
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018,Q2,Other,Office Supplies,Office Supplies Item 6,5,17335,2821.0,0.16,0.15,Rep-1,Home Office
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,2018,Q3,South,Electronics,Electronics Item 7,4,13144,3649.0,0.28,0.15,Rep-2,Consumer
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2018,Q3,West,Office Supplies,Office Supplies Item 8,3,4866,606.0,0.12,0.25,Rep-3,Corporate
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,2018,Q3,West,Electronics,Electronics Item 9,1,4579,828.0,0.18,0.1,Rep-4,Home Office
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,2018,Q3,Other,Furniture,Furniture Item 10,1,2071,465.0,0.22,0.15,Rep-5,Corporate
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,2018,Q4,West,Office Supplies,Office Supplies Item 1,4,10572,2634.0,0.25,0.15,Rep-1,Corporate
+B-25857,2018-10-11,Anand,Madhya Pradesh,Indore,2018,Q4,Other,Furniture,Furniture Item 2,3,6561,1081.0,0.16,0.1,Rep-2,Home Office
+B-25887,2018-01-12,Vedant,Uttar Pradesh,Allahabad,2018,Q1,North,Electronics,Electronics Item 3,3,13896,3620.0,0.26,0.15,Rep-3,Corporate
+B-25888,2018-02-12,Rohan,Punjab,Amritsar,2018,Q1,North,Office Supplies,Office Supplies Item 4,5,21755,5270.0,0.24,0.05,Rep-4,Home Office
+B-25889,2018-03-12,Abhishek,Gujarat,Surat,2018,Q1,West,Electronics,Electronics Item 5,3,11820,787.0,0.07,0.05,Rep-5,Corporate
+B-25890,2018-04-12,Divyansha,Maharashtra,Mumbai,2018,Q2,West,Furniture,Furniture Item 6,3,12798,787.0,0.06,0.1,Rep-1,Home Office
+B-25891,2018-04-12,Shivani,Madhya Pradesh,Indore,2018,Q2,Other,Electronics,Electronics Item 7,3,8478,1740.0,0.21,0.25,Rep-2,Consumer
+B-25892,2018-04-12,Aditi,Rajasthan,Udaipur,2018,Q2,North,Office Supplies,Office Supplies Item 8,2,6828,934.0,0.14,0.25,Rep-3,Home Office
+B-25893,2018-04-12,Aashna,Uttar Pradesh,Allahabad,2018,Q2,North,Office Supplies,Office Supplies Item 9,5,22260,2277.0,0.1,0.1,Rep-4,Home Office
+B-25894,2018-04-12,Monu,Punjab,Amritsar,2018,Q2,North,Furniture,Furniture Item 10,1,1095,213.0,0.19,0.1,Rep-5,Home Office
+B-25895,2018-04-12,Sathya,Gujarat,Surat,2018,Q2,West,Electronics,Electronics Item 1,4,4912,665.0,0.14,0.05,Rep-1,Home Office
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,2018,Q2,West,Office Supplies,Office Supplies Item 2,1,1865,344.0,0.18,0.25,Rep-2,Corporate
+B-25897,2018-06-12,Rohan,Madhya Pradesh,Indore,2018,Q2,Other,Furniture,Furniture Item 3,5,24960,4119.0,0.17,0.15,Rep-3,Consumer
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,2018,Q3,North,Office Supplies,Office Supplies Item 4,4,4792,940.0,0.2,0.05,Rep-4,Home Office
+B-25899,2018-08-12,Aishwarya,Uttar Pradesh,Allahabad,2018,Q3,North,Office Supplies,Office Supplies Item 5,5,4475,672.0,0.15,0.1,Rep-5,Corporate
+B-25900,2018-09-12,Anand,Punjab,Amritsar,2018,Q3,North,Electronics,Electronics Item 6,3,14013,3145.0,0.22,0.25,Rep-1,Consumer
+B-25901,2018-10-12,Suraj,Gujarat,Surat,2018,Q4,West,Office Supplies,Office Supplies Item 7,4,19440,1847.0,0.1,0.15,Rep-2,Consumer
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,2018,Q4,West,Electronics,Electronics Item 8,3,9006,2018.0,0.22,0.15,Rep-3,Consumer
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,2018,Q4,Other,Office Supplies,Office Supplies Item 9,1,2319,355.0,0.15,0.05,Rep-4,Consumer
+B-25904,2018-10-12,Swapnil,Delhi,Delhi,2018,Q4,North,Furniture,Furniture Item 10,1,1217,327.0,0.27,0.25,Rep-5,Home Office
+B-25905,2018-11-12,Bhargav,Madhya Pradesh,Delhi,2018,Q4,Other,Office Supplies,Office Supplies Item 1,4,13128,2347.0,0.18,0.25,Rep-1,Home Office
+B-25906,2018-11-12,Abhijit,Delhi,Delhi,2018,Q4,North,Electronics,Electronics Item 2,4,16308,4783.0,0.29,0.1,Rep-2,Corporate
+B-25907,2018-11-12,Jaydeep,Madhya Pradesh,Bhopal,2018,Q4,Other,Electronics,Electronics Item 3,5,3215,645.0,0.2,0.25,Rep-3,Corporate
+B-25908,2018-12-12,Pradeep,Delhi,Delhi,2018,Q4,North,Furniture,Furniture Item 4,5,18200,1929.0,0.11,0.25,Rep-4,Corporate
+B-25928,2019-01-01,Smriti,Bihar,Patna,2019,Q1,East,Office Supplies,Office Supplies Item 5,3,14973,3825.0,0.26,0.05,Rep-5,Consumer
+B-25929,2019-02-01,Girase,Kerala ,Thiruvananthapuram,2019,Q1,Other,Office Supplies,Office Supplies Item 6,4,13752,1874.0,0.14,0.25,Rep-1,Consumer
+B-25930,2019-03-01,Monica,Punjab,Chandigarh,2019,Q1,North,Furniture,Furniture Item 7,1,4136,566.0,0.14,0.15,Rep-2,Home Office
+B-25931,2019-04-01,Sidharth,Maharashtra,Mumbai,2019,Q2,West,Office Supplies,Office Supplies Item 8,5,18610,1078.0,0.06,0.05,Rep-3,Consumer
+B-25932,2019-04-01,Bhutekar,Madhya Pradesh,Indore,2019,Q2,Other,Office Supplies,Office Supplies Item 9,5,8335,1560.0,0.19,0.05,Rep-4,Consumer
+B-25933,2019-04-01,Shikhar,Maharashtra,Mumbai,2019,Q2,West,Electronics,Electronics Item 10,1,3116,572.0,0.18,0.1,Rep-5,Consumer
+B-25934,2019-04-01,Rahul,Madhya Pradesh,Indore,2019,Q2,Other,Office Supplies,Office Supplies Item 1,5,7810,1086.0,0.14,0.25,Rep-1,Corporate
+B-25935,2019-04-01,Sudhir,Nagaland,Kohima,2019,Q2,Other,Office Supplies,Office Supplies Item 2,3,7968,2180.0,0.27,0.1,Rep-2,Corporate
+B-25936,2019-05-01,Nikhil,Punjab,Chandigarh,2019,Q2,North,Furniture,Furniture Item 3,4,13928,1145.0,0.08,0.15,Rep-3,Home Office
+B-25937,2019-05-01,Ankit,Haryana,Chandigarh,2019,Q2,North,Furniture,Furniture Item 4,1,3794,503.0,0.13,0.05,Rep-4,Consumer
+B-25938,2019-05-01,Shikhar,Himachal Pradesh,Simla,2019,Q2,Other,Electronics,Electronics Item 5,4,6624,864.0,0.13,0.05,Rep-5,Consumer
+B-25939,2019-05-01,Vineet,Sikkim,Gangtok,2019,Q2,Other,Office Supplies,Office Supplies Item 6,5,6160,450.0,0.07,0.05,Rep-1,Home Office
+B-25940,2019-06-01,Vivek,Goa,Goa,2019,Q2,Other,Office Supplies,Office Supplies Item 7,5,24150,4112.0,0.17,0.15,Rep-2,Consumer
+B-25941,2019-07-01,Jaideep,Nagaland,Kohima,2019,Q3,Other,Office Supplies,Office Supplies Item 8,1,1453,322.0,0.22,0.15,Rep-3,Consumer
+B-25942,2019-08-01,Ankur,Andhra Pradesh,Hyderabad,2019,Q3,South,Electronics,Electronics Item 9,3,9117,1622.0,0.18,0.1,Rep-4,Corporate
+B-25943,2019-09-01,Shardul,Gujarat,Ahmedabad,2019,Q3,West,Electronics,Electronics Item 10,2,7648,683.0,0.09,0.1,Rep-5,Home Office
+B-25944,2019-10-01,Syed,Maharashtra,Pune,2019,Q4,West,Furniture,Furniture Item 1,1,3801,549.0,0.14,0.1,Rep-1,Home Office
+B-25945,2019-11-01,Mhatre,Madhya Pradesh,Indore,2019,Q4,Other,Electronics,Electronics Item 2,2,4084,207.0,0.05,0.25,Rep-2,Home Office
+B-25946,2019-12-01,Saurabh,Andhra Pradesh,Hyderabad,2019,Q4,South,Office Supplies,Office Supplies Item 3,2,3382,903.0,0.27,0.05,Rep-3,Home Office
+B-25989,2019-01-02,Anjali,Delhi,Delhi,2019,Q1,North,Office Supplies,Office Supplies Item 4,3,10479,745.0,0.07,0.05,Rep-4,Corporate
+B-25990,2019-02-02,Mugdha,Delhi,Delhi,2019,Q1,North,Electronics,Electronics Item 5,2,6362,1268.0,0.2,0.1,Rep-5,Corporate
+B-25991,2019-03-02,Mansi,Madhya Pradesh,Indore,2019,Q1,Other,Office Supplies,Office Supplies Item 6,2,3434,1018.0,0.3,0.05,Rep-1,Consumer
+B-25992,2019-03-02,Gaurav,Rajasthan,Udaipur,2019,Q1,North,Office Supplies,Office Supplies Item 7,3,6120,1127.0,0.18,0.1,Rep-2,Consumer
+B-25993,2019-03-02,Harshal,Delhi,Delhi,2019,Q1,North,Electronics,Electronics Item 8,2,7472,2100.0,0.28,0.25,Rep-3,Consumer
+B-25994,2019-03-02,Omkar,Delhi,Delhi,2019,Q1,North,Electronics,Electronics Item 9,2,5772,629.0,0.11,0.25,Rep-4,Consumer
+B-25995,2019-04-02,Yohann,Delhi,Delhi,2019,Q2,North,Office Supplies,Office Supplies Item 10,2,8438,2025.0,0.24,0.15,Rep-5,Corporate
+B-25996,2019-04-02,Prashant,Delhi,Delhi,2019,Q2,North,Office Supplies,Office Supplies Item 1,1,1888,345.0,0.18,0.25,Rep-1,Home Office
+B-25997,2019-04-02,Yogesh,Madhya Pradesh,Indore,2019,Q2,Other,Office Supplies,Office Supplies Item 2,1,2356,542.0,0.23,0.1,Rep-2,Corporate
+B-25998,2019-04-02,Anmol,Rajasthan,Udaipur,2019,Q2,North,Furniture,Furniture Item 3,1,1865,122.0,0.07,0.25,Rep-3,Consumer
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,2019,Q2,North,Furniture,Furniture Item 4,3,2997,261.0,0.09,0.15,Rep-4,Corporate
+B-26000,2019-06-02,Shubham,Delhi,Delhi,2019,Q2,North,Furniture,Furniture Item 5,5,10900,908.0,0.08,0.05,Rep-5,Home Office
+B-26001,2019-07-02,Patil,Delhi,Delhi,2019,Q3,North,Electronics,Electronics Item 6,2,2020,448.0,0.22,0.1,Rep-1,Home Office
+B-26002,2019-08-02,Harsh,Delhi,Delhi,2019,Q3,North,Furniture,Furniture Item 7,2,9624,2513.0,0.26,0.05,Rep-2,Corporate
+B-26003,2019-08-02,Hitesh,Madhya Pradesh,Bhopal,2019,Q3,Other,Electronics,Electronics Item 8,3,5472,1299.0,0.24,0.15,Rep-3,Corporate
+B-26004,2019-08-02,Nandita,Rajasthan,Jaipur,2019,Q3,North,Electronics,Electronics Item 9,2,3310,191.0,0.06,0.15,Rep-4,Corporate
+B-26005,2019-08-02,Parnavi,West Bengal,Kolkata,2019,Q3,East,Furniture,Furniture Item 10,1,2327,621.0,0.27,0.15,Rep-5,Consumer
+B-26006,2019-09-02,Arpita,Karnataka,Bangalore,2019,Q3,South,Furniture,Furniture Item 1,5,18205,2522.0,0.14,0.05,Rep-1,Corporate
+B-26007,2019-09-02,Shubham,Jammu and Kashmir,Kashmir,2019,Q3,Other,Furniture,Furniture Item 2,4,15944,2380.0,0.15,0.05,Rep-2,Corporate
+B-26008,2019-09-02,Kalyani,Tamil Nadu,Chennai,2019,Q3,South,Office Supplies,Office Supplies Item 3,2,4620,352.0,0.08,0.05,Rep-3,Corporate
+B-26009,2019-10-02,Komal,Uttar Pradesh,Lucknow,2019,Q4,North,Furniture,Furniture Item 4,1,3423,802.0,0.23,0.05,Rep-4,Home Office
+B-26010,2019-11-02,Kartikay,Bihar,Patna,2019,Q4,East,Office Supplies,Office Supplies Item 5,4,10856,1038.0,0.1,0.15,Rep-5,Home Office
+B-26011,2019-12-02,Bharat,Gujarat,Ahmedabad,2019,Q4,West,Electronics,Electronics Item 6,5,23430,4475.0,0.19,0.15,Rep-1,Consumer
+B-26043,2019-01-03,Amit,Sikkim,Gangtok,2019,Q1,Other,Office Supplies,Office Supplies Item 7,4,4852,1262.0,0.26,0.1,Rep-2,Consumer
+B-26044,2019-02-03,Sanjay,Goa,Goa,2019,Q1,Other,Furniture,Furniture Item 8,1,4102,297.0,0.07,0.1,Rep-3,Home Office
+B-26045,2019-03-03,Nidhi,Nagaland,Kohima,2019,Q1,Other,Electronics,Electronics Item 9,4,18536,3408.0,0.18,0.05,Rep-4,Home Office
+B-26046,2019-04-03,Nishi,Maharashtra,Mumbai,2019,Q2,West,Electronics,Electronics Item 10,3,12066,1307.0,0.11,0.25,Rep-5,Home Office
+B-26047,2019-04-03,Ashmi,Madhya Pradesh,Indore,2019,Q2,Other,Electronics,Electronics Item 1,4,19072,2589.0,0.14,0.25,Rep-1,Corporate
+B-26048,2019-04-03,Parth,Maharashtra,Pune,2019,Q2,West,Office Supplies,Office Supplies Item 2,2,3486,587.0,0.17,0.15,Rep-2,Corporate
+B-26049,2019-05-03,Lisha,Madhya Pradesh,Bhopal,2019,Q2,Other,Furniture,Furniture Item 3,2,8418,1168.0,0.14,0.15,Rep-3,Home Office
+B-26050,2019-06-03,Paridhi,Rajasthan,Jaipur,2019,Q2,North,Electronics,Electronics Item 4,3,4743,1006.0,0.21,0.15,Rep-4,Corporate
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,2019,Q3,East,Electronics,Electronics Item 5,1,955,162.0,0.17,0.1,Rep-5,Corporate
+B-26052,2019-08-03,Ajay,Karnataka,Bangalore,2019,Q3,South,Electronics,Electronics Item 6,2,2788,547.0,0.2,0.1,Rep-1,Consumer
+B-26053,2019-09-03,Kirti,Jammu and Kashmir,Kashmir,2019,Q3,Other,Office Supplies,Office Supplies Item 7,5,9420,2206.0,0.23,0.15,Rep-2,Home Office
+B-26054,2019-10-03,Mayank,Maharashtra,Mumbai,2019,Q4,West,Office Supplies,Office Supplies Item 8,2,4916,931.0,0.19,0.15,Rep-3,Home Office
+B-26055,2019-10-03,Yaanvi,Madhya Pradesh,Indore,2019,Q4,Other,Furniture,Furniture Item 9,2,7144,1405.0,0.2,0.15,Rep-4,Corporate
+B-26056,2019-10-03,Sonal,Bihar,Patna,2019,Q4,East,Office Supplies,Office Supplies Item 10,1,2496,477.0,0.19,0.25,Rep-5,Home Office
+B-26057,2019-10-03,Sharda,Kerala ,Thiruvananthapuram,2019,Q4,Other,Electronics,Electronics Item 1,4,19140,2769.0,0.14,0.1,Rep-1,Consumer
+B-26058,2019-11-03,Aditya,Punjab,Chandigarh,2019,Q4,North,Furniture,Furniture Item 2,2,2008,270.0,0.13,0.25,Rep-2,Consumer
+B-26059,2019-12-03,Rachna,Haryana,Chandigarh,2019,Q4,North,Electronics,Electronics Item 3,3,5142,1414.0,0.27,0.25,Rep-3,Consumer
