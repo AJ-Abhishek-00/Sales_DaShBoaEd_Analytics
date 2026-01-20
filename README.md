@@ -167,7 +167,7 @@ streamlit run src/4_streamlit_dashboard.py
 ## 📸 Screenshots
 
 ### Dashboard Preview
-![Dashboard](data/business_insights.png)
+![Dashboard](sales-dashboard/sh.png.png)
 
 ---
 
